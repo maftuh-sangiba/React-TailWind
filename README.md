@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Profile Website Using React and Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Test membuat profile website menggunakan react dan tailwind css.
 
 ## Available Scripts
 
