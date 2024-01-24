@@ -3,15 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Profile from './Profile';
-import Summary from './Summary';
+import Background from './Background';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
-    <Profile />
-    <Summary />
+    <Background />
   </React.StrictMode>
 );
 
