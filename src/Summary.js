@@ -1,5 +1,4 @@
 import WorkExperience from "./WorkExperience";
-import * as Unicons from '@iconscout/react-unicons';
 
 function Summary() {
     return (

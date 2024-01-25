@@ -6,7 +6,7 @@ function Profile() {
         <div>
             <Detail
                 img='https://planetanft.com/wp-content/uploads/2021/12/Doodles-1.png'
-                name='Bambang Gentolet'
+                name='Mukhamad Maftuh Sangiba'
                 jobs='WEB DEVELOPER'
                 desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
                 link1='#'
